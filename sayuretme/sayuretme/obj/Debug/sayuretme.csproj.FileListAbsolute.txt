@@ -1,0 +1,8 @@
+C:\Users\cem\source\repos\sayuretme\sayuretme\bin\Debug\sayuretme.exe.config
+C:\Users\cem\source\repos\sayuretme\sayuretme\bin\Debug\sayuretme.exe
+C:\Users\cem\source\repos\sayuretme\sayuretme\bin\Debug\sayuretme.pdb
+C:\Users\cem\source\repos\sayuretme\sayuretme\obj\Debug\sayuretme.csproj.AssemblyReference.cache
+C:\Users\cem\source\repos\sayuretme\sayuretme\obj\Debug\sayuretme.csproj.SuggestedBindingRedirects.cache
+C:\Users\cem\source\repos\sayuretme\sayuretme\obj\Debug\sayuretme.csproj.CoreCompileInputs.cache
+C:\Users\cem\source\repos\sayuretme\sayuretme\obj\Debug\sayuretme.exe
+C:\Users\cem\source\repos\sayuretme\sayuretme\obj\Debug\sayuretme.pdb
